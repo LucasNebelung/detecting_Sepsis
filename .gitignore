@@ -1,3 +1,9 @@
+.lightning_studio
+
+data/training_setA/
+data/training_setB/
+data/Dataset.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
