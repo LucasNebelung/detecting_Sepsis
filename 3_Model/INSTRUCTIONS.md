@@ -1,3 +1,7 @@
+# Please Note: evaluate_sepsis_score.py is the official evaluation script by physionet 
+# See https://github.com/physionetchallenges/evaluation-2019
+
+
 # Model Definition and Evaluation
 
 ## Overview
