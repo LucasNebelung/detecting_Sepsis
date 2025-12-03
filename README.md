@@ -1,22 +1,23 @@
-# [Your Project Title Here]
+# [Early Sepsis Detection]
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/LucasNebelung/detecting_Sepsis]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.
+This project focuses on **early detection of sepsis in ICU patients** using multivariate time-series data from the PhysioNet/Computing in Cardiology 2019 Challenge.  ]
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Classification – binary prediction of sepsis onset (SepsisLabel)]
 
 ### Results Summary
 
 #### Best Model Performance
 - **Best Model:** [Name and type of the best-performing model"]
-- **Evaluation Metric:** [Primary metric used, e.g., Accuracy, F1-Score, MSE, MAE]
+- **Evaluation Metric:** [Primary metric used, e.g., Accuracy, F1-Score, MSE, MAE] Utitlity Score 
 - **Final Performance:** [Best score achieved, e.g., 95% accuracy, F1-score of 0.87, MSE of 0.12]
 
 #### Model Comparison
