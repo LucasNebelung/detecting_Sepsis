@@ -1,8 +1,11 @@
 .lightning_studio
 
+data/
 data/training_setA/
 data/training_setB/
 data/Dataset.csv
+data/train.csv
+data/test.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
