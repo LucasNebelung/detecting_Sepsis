@@ -7,6 +7,9 @@ data/Dataset.csv
 data/train.csv
 data/test.csv
 
+4_Evaluation/Predictions
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
